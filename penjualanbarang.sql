@@ -115,8 +115,8 @@ CREATE TABLE IF NOT EXISTS `user` (
 --
 
 INSERT INTO `user` (`id_user`, `nama_user`, `username`, `password`) VALUES
-(12, 'sya', 'sya', '1'),
-(14, 'rawr', 'rawr', '2');
+(12, 'admin', 'admin', '123'),
+(14, 'idrisi', 'idrisi', '2');
 
 --
 -- Indexes for dumped tables
